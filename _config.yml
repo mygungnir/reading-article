@@ -10,7 +10,7 @@ title: AI技術の最新動向を知る
 email: mygungnir@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   AI・人工知能に関する論文や情報を載せていきます。
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/reading-article" # the subpath of your site, e.g. /blog
 url: "http://aiarticle.com" # the base hostname & protocol for your site
 twitter_username: mygungnir
 github_username:  mygungnir
